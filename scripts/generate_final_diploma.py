@@ -12,7 +12,7 @@ from docx.shared import Cm, Inches, Pt
 
 OUT = Path("docs/_work/CodeMentorAI_diploma_final.docx")
 QR = Path("docs/_work/github_qr.png")
-GITHUB_URL = "https://github.com/your-login/CodeMentorAI"
+GITHUB_URL = "https://github.com/werganhi/CodeMentorAI"
 APP = "CodeMentor AI"
 TITLE = (
     "Разработка мобильного приложения для обучения программированию "
